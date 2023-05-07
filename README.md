@@ -4,12 +4,12 @@
 O projeto se trata de um Marketplace baseado em uma aplicação web que oferece um ambiente seguro para a venda e compra de produtos diversos. O projeto também atua como uma casa de câmbio, permitindo a troca do real pela BTG dol para compras no site. O BTG dol foi adotado pelo site por oferecer vantagens como maior estabilidade, facilitação de transações internacionais e possibilitação da integração com a rede blockchain, o que permite fazer uso de suas vantagens relacionadas à segurança, rastreabilidade e transparência. 
 
 ## Integrantes:
-Ever Felliphe Sousa
-Gustava Wagon Widman
-João Paulo da Silva
-Luan Ramos de Mello
-Pedro Henrique de Azeredo Coutinho Cruz
-Rodrigo Sales Freire dos Santos
+- Ever Felliphe Sousa
+- Gustava Wagon Widman
+- João Paulo da Silva
+- Luan Ramos de Mello
+- Pedro Henrique de Azeredo Coutinho Cruz
+- Rodrigo Sales Freire dos Santos
 
 
 Frontend: HTML, Bootstrap, JavaScript.
